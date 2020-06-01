@@ -1,0 +1,4 @@
+.vs/
+AzurePipelineDemo*/bin
+AzurePipelineDemo*/obj
+AzurePipelineDemo/*.csproj.user
